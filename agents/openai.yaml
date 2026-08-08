@@ -1,0 +1,5 @@
+interface:
+  display_name: "To Design Doc"
+  short_description: "Write a terse 6-section design doc from scratch"
+policy:
+  allow_implicit_invocation: false
